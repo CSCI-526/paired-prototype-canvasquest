@@ -1124,7 +1124,7 @@ MonoBehaviour:
   fullyInsideMargin: 0.02
   targetLabel: {fileID: 141087878}
   showLiveSum: 0
-  unsatisfiedTint: {r: 1, g: 0.4, b: 0.4, a: 0.25}
+  unsatisfiedTint: {r: 0, g: 0.9771309, b: 1, a: 0.25}
   satisfiedTint: {r: 0.3, g: 1, b: 0.4, a: 0.35}
 --- !u!1 &490696918
 GameObject:
@@ -1665,7 +1665,7 @@ MonoBehaviour:
   fullyInsideMargin: 0.02
   targetLabel: {fileID: 764997918}
   showLiveSum: 0
-  unsatisfiedTint: {r: 1, g: 0.4, b: 0.4, a: 0.25}
+  unsatisfiedTint: {r: 0.8584906, g: 0, b: 0.8004597, a: 0.29411766}
   satisfiedTint: {r: 0.3, g: 1, b: 0.4, a: 0.35}
 --- !u!1 &620693968
 GameObject:
@@ -1901,7 +1901,7 @@ MonoBehaviour:
   fullyInsideMargin: 0.02
   targetLabel: {fileID: 490696920}
   showLiveSum: 0
-  unsatisfiedTint: {r: 1, g: 0.4, b: 0.4, a: 0.25}
+  unsatisfiedTint: {r: 0.9593928, g: 1, b: 0, a: 0.25}
   satisfiedTint: {r: 0.3, g: 1, b: 0.4, a: 0.35}
 --- !u!1 &725363030 stripped
 GameObject:
